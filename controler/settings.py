@@ -47,7 +47,6 @@ INSTALLED_APPS = [
 
     # my apps
     'profileinfo',
-    'webinfo',
     'album'
 ]
 
