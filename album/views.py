@@ -11,3 +11,4 @@ def Album(request):
         'album': Albums
     }
     return render(request,'album/index.html',context)
+

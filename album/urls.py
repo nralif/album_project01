@@ -6,4 +6,5 @@ app_name ='album'
 
 urlpatterns =[
     path('', views.Album , name = 'album')
+
 ]
