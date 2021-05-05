@@ -4,5 +4,5 @@ from . import views
 app_name='blog'
 
 urlpatterns = [
-    path('',views.blueberry , name = 'blueberry')
+    path('',views.blogList , name = 'Blog_List')
 ]
